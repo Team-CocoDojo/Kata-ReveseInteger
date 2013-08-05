@@ -6,6 +6,6 @@ test("Test Basics", function() {
 });
 
 test("More Basics", function() {
-  equal(11, reverseInt(11));
+  equal(21, reverseInt(12));
   //More test cases, please write down here.
 });
